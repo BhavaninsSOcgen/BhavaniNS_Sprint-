@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bca4ed5d-9bf5-4ba9-a69d-3f329a956bc5": {
+      "ProjectGuid": "bca4ed5d-9bf5-4ba9-a69d-3f329a956bc5",
+      "DisplayName": "Sprint2Project",
+      "ColorIndex": 0
+    },
+    "6a622e4e-2dc9-4d4e-b696-01695ae9a8e1": {
+      "ProjectGuid": "6a622e4e-2dc9-4d4e-b696-01695ae9a8e1",
+      "DisplayName": "Sprint3Project.test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
