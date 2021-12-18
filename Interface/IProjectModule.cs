@@ -10,5 +10,6 @@ namespace Sprint2Project.Interface
         ProjectModule AddProject(ProjectModule project);
         ProjectModule UpdateProject(int id, ProjectModule project);
         void DeleteProject(int id);
+       
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace Sprint2Project.Models
+﻿using Sprint2Project.Interface;
+
+namespace Sprint2Project.Models
 {
     public class ProjectModule
     {
