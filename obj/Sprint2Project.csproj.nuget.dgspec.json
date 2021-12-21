@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bhava\\source\\repos\\Sprint1Project\\Sprint2Project\\Sprint2Project.csproj": {}
+    "C:\\Users\\bhava\\Source\\Repos\\BhavaniNS_Sprint-2\\Sprint2Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bhava\\source\\repos\\Sprint1Project\\Sprint2Project\\Sprint2Project.csproj": {
+    "C:\\Users\\bhava\\Source\\Repos\\BhavaniNS_Sprint-2\\Sprint2Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bhava\\source\\repos\\Sprint1Project\\Sprint2Project\\Sprint2Project.csproj",
+        "projectUniqueName": "C:\\Users\\bhava\\Source\\Repos\\BhavaniNS_Sprint-2\\Sprint2Project.csproj",
         "projectName": "Sprint2Project",
-        "projectPath": "C:\\Users\\bhava\\source\\repos\\Sprint1Project\\Sprint2Project\\Sprint2Project.csproj",
+        "projectPath": "C:\\Users\\bhava\\Source\\Repos\\BhavaniNS_Sprint-2\\Sprint2Project.csproj",
         "packagesPath": "C:\\Users\\bhava\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bhava\\source\\repos\\Sprint1Project\\Sprint2Project\\obj\\",
+        "outputPath": "C:\\Users\\bhava\\Source\\Repos\\BhavaniNS_Sprint-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

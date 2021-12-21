@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sprint2Project", "Sprint2Project.csproj", "{BCA4ED5D-9BF5-4BA9-A69D-3F329A956BC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint3Project.test", "..\Sprint3Project\Sprint3Project.test.csproj", "{6A622E4E-2DC9-4D4E-B696-01695AE9A8E1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{BCA4ED5D-9BF5-4BA9-A69D-3F329A956BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA4ED5D-9BF5-4BA9-A69D-3F329A956BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA4ED5D-9BF5-4BA9-A69D-3F329A956BC5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A622E4E-2DC9-4D4E-B696-01695AE9A8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A622E4E-2DC9-4D4E-B696-01695AE9A8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A622E4E-2DC9-4D4E-B696-01695AE9A8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A622E4E-2DC9-4D4E-B696-01695AE9A8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
